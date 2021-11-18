@@ -1,0 +1,5 @@
+{
+  "extensions": {
+    "storage-resize-imagesz": "firebase/storage-resize-images@0.1.24"
+  }
+}

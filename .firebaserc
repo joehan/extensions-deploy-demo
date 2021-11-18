@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "joehanley-public",
+    "prod": "joehanley-public",
+    "staging": "jh-test-proj-create"
+  },
+  "targets": {}
+}
