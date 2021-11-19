@@ -24,3 +24,4 @@ jobs:
             firebaseServiceAccount: FIREBASE_DEPLOY_KEY
             # The location of your firebase.json file, relative to the root of your directory
             entryPoint: .
+            project: staging
