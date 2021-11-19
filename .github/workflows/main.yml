@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       # - run: npm run build
-      -  uses: joehan/action-extensions-deploy@v0-alpha4
+      -  uses: joehan/action-extensions-deploy@v0-alpha5
          with:
             # Firebase service account JSON
             firebaseServiceAccount:  "${{ secrets.FIREBASE_DEPLOY_KEY }}"
